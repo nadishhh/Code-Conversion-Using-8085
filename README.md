@@ -24,7 +24,7 @@ To write 8085 microprocessor programs for converting:
 LDA 4200H  
 MOV B, A  
 
-ANI F0H  
+ANI 0F0H  
 RRC  
 RRC  
 RRC  
@@ -49,8 +49,9 @@ HLT
 
 
 ## Output:
-<img width="1546" height="752" alt="Screenshot 2025-09-15 134919" src="https://github.com/user-attachments/assets/c33be5b8-7d6f-479e-8a82-50cbdfc9ac06" />
+<img width="1558" height="729" alt="Screenshot 2025-09-15 141652" src="https://github.com/user-attachments/assets/04d35b7e-26b3-4bc6-84ed-03ca1b22de8d" />
 
+<img width="1552" height="737" alt="Screenshot 2025-09-15 141719" src="https://github.com/user-attachments/assets/dd256f4a-f065-48ad-9dfe-178d649d4f9a" />
 
 
 ## Program 2: ASCII to Hexadecimal Conversion
@@ -89,10 +90,10 @@ HLT;
 
 
 ## Output:
-<img width="1025" height="735" alt="Screenshot 2025-09-15 135947" src="https://github.com/user-attachments/assets/7297465b-e50b-45f2-8c8a-4be87836af8b" />
 
-<img width="1492" height="725" alt="Screenshot 2025-09-15 140020" src="https://github.com/user-attachments/assets/ef2242b7-246b-43fd-9d7d-5a6218d88ad3" />
+<img width="1553" height="732" alt="Screenshot 2025-09-15 141357" src="https://github.com/user-attachments/assets/25241cb9-6e65-4cf0-8aaa-63a3a672e6cf" />
 
+<img width="1548" height="727" alt="Screenshot 2025-09-15 141415" src="https://github.com/user-attachments/assets/4f4f912a-2606-4ed9-90a0-a82a89e16850" />
 
 ## Result:
 
